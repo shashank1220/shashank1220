@@ -34,7 +34,7 @@
 
 ### 📫 Connect with Me
 
-🔗 LinkedIn: [SHASHANK PANDEY](https://www.linkedin.com/in/shashank-pandey-68b08834b)https://www.instagram.com/_shani_pandey_
+🔗 LinkedIn: [SHASHANK PANDEY](https://www.linkedin.com/in/shashank-pandey-68b08834b)
 🔗 Instagram: [_shani_pandey_](https://www.instagram.com/_shani_pandey_)
 <!---
 shashank1220/shashank1220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

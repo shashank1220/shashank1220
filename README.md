@@ -1,21 +1,19 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Shashank Pandey</span></h1>
-<h3 align="center">💻 Full Stack Developer (In Progress) | 🚀 Lifelong Learner | 🌍 Based in India</h3>
+<h3 align="center">💻 Aspiring Full-Stack Developer | 🚀 Focused on Frontend | 🇮🇳 Based in India</h3>
 
 ---
 
 <!-- ABOUT -->
 ### 👨‍💻 About Me
 
-🎓 I'm a passionate **Computer Science student** currently focused on **Frontend Development** and gradually mastering **Full Stack Web Technologies**.  
-🧠 I love building responsive, accessible, and high-performance web apps.  
-🌱 Currently learning **React**, **Node.js**, and **Express.js**.  
-🎯 Goal: To become a **Full Stack Developer** who delivers impactful digital solutions.  
-⚡ Fun fact: I debug more than I sleep — but both recharge my brain.
+- 🎓 Computer Science student learning modern web development  
+- 🌱 Currently leveling up in **React**, **Tailwind CSS**, and **Node.js**  
+- 🎯 Goal: Build production-grade, accessible, and performant apps  
+- ⚡ Fun fact: I prototype ideas faster than I sleep
 
 ---
 
-<!-- TECH STACK -->
 ### 🧰 Tech Stack
 
 #### 🖥️ Frontend
@@ -24,8 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <!-- Tailwind: primary + fallback -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS (fallback)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind"/>
 </p>
 
 #### ⚙️ Backend
@@ -36,14 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 </p>
 
-#### 🧩 Programming Languages
+#### 🧩 Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
 </p>
 
-#### 🧠 Tools & Platforms
+#### 🧰 Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
@@ -54,8 +54,7 @@
 
 ---
 
-<!-- STATS -->
-### 📊 GitHub Analytics
+### 📊 GitHub Cards
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shashank1220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
@@ -68,43 +67,47 @@
 
 ---
 
-<!-- PROJECTS -->
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🕒 **WaitLess (Digital Queue Manager)** | A smart queue management system for reducing wait time using MERN stack. | React, Node.js, MongoDB, Express |
-| 🪪 **AstraNova (Virtual Avatar Digital Identity)** | A futuristic identity authentication system with avatars & QR-based login. | React, Blockchain (Planned), Tailwind |
-| 💬 **Private Chat App** | Real-time chat application with Socket.IO and MERN stack. | React, Node.js, Socket.IO |
+| Project | Description | Tech & Highlights |
+|---|---:|---|
+| 🔐 **ThreatNova (Chat Application — Private)** | Secure, private chat application — real-time messaging with room controls & privacy features. | React, Socket.IO, Node.js, MongoDB |
+| 🔎 **Image Search Engines** | Multiple search prototypes with filtering, lazy loading, and paginated APIs. | React, REST APIs, Elastic-style indexing |
+| 🛍️ **Myntra Clone** | E-commerce frontend recreation — product pages, cart, filters, responsive UI. | React, Tailwind, LocalStorage cart |
+| 🔲 **QR Code Generator** | Small utility for creating downloadable QR codes for URLs/text. | HTML/CSS/JS, QR libraries |
+| 🔐 **Password Generator** | Customizable password generator with strength meter and copy-to-clipboard. | JS, Clipboard API |
+| 🔤 **Text to Converter** | Collection of text utilities: case conversion, minify/beautify, encoders. | JS, Clipboard + Regex |
+| ✨ **And many more** | Mini-tools, experiments and college projects — prototypes and demos. | Varies |
+
+> For each project you can add: live demo link, repo link, short GIF/screenshot, and one-line metric (e.g., "1000+ visitors", "Used in college project"). Add those and I’ll update the table with badges.
 
 ---
 
-<!-- CONTACT -->
-### 🌐 Connect With Me
+### 🌐 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shashank-pandey-68b08834b" target="_blank">
+  <a href="https://www.linkedin.com/in/shashank-pandey-68b08834b" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/_shani_pandey_/" target="_blank">
+  <!-- Instagram: primary + fallback -->
+  <a href="https://www.instagram.com/_shani_pandey_/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="40" height="40" alt="Instagram (fallback)"/>
   </a>
-  <a href="mailto:shashank1220@example.com" target="_blank">
+  <a href="mailto:shashank1220@example.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### ⚡ Fun Zone
+### ⚡ Fun & Extras
 
-- 🧩 Favourite Quote: *"Talk is cheap. Show me the code." — Linus Torvalds*  
-- 🎮 Hobbies: Gaming | Coding | Music | Reading Tech Blogs  
-- ☕ Fuel: JavaScript + Coffee = Productivity  
+- 🧩 Favourite Quote: *"Talk is cheap. Show me the code."* — Linus Torvalds  
+- 🎮 Hobbies: Gaming | Prototyping small apps | Reading tech blogs | Music  
+- ☕ Fuel: JavaScript + Coffee
 
 ---
-
-<h3 align="center">🔥 Thank you for visiting! Let's build something great together.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashank1220&style=for-the-badge&color=blue" alt="Profile Views"/>

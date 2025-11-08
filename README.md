@@ -71,15 +71,12 @@
 | Project | Description | Tech & Highlights |
 |---|---:|---|
 | 🔐 **ThreatNova (Chat Application — Private)** | Secure, private chat application — real-time messaging with room controls & privacy features. | React, Socket.IO, Node.js, MongoDB |
-| 🔎 **Image Search Engines** | Multiple search prototypes with filtering, lazy loading, and paginated APIs. | React, REST APIs, Elastic-style indexing |
-| 🛍️ **Myntra Clone** | E-commerce frontend recreation — product pages, cart, filters, responsive UI. | React, Tailwind, LocalStorage cart |
-| 🔲 **QR Code Generator** | Small utility for creating downloadable QR codes for URLs/text. | HTML/CSS/JS, QR libraries |
-| 🔐 **Password Generator** | Customizable password generator with strength meter and copy-to-clipboard. | JS, Clipboard API |
-| 🔤 **Text to Converter** | Collection of text utilities: case conversion, minify/beautify, encoders. | JS, Clipboard + Regex |
+| 🔎 **Image Search Engines** | 
+| 🛍️ **Myntra Clone** | 
+| 🔲 **QR Code Generator** | Small utility for creating downloadable QR codes for URLs/text. | HTML/CSS/JS |
+| 🔐 **Password Generator** | 
+| 🔤 **Text to Converter** | 
 | ✨ **And many more** | Mini-tools, experiments and college projects — prototypes and demos. | Varies |
-
-> For each project you can add: live demo link, repo link, short GIF/screenshot, and one-line metric (e.g., "1000+ visitors", "Used in college project"). Add those and I’ll update the table with badges.
-
 ---
 
 ### 🌐 Connect
@@ -92,7 +89,7 @@
   <a href="https://www.instagram.com/_shani_pandey_/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
   </a>
-  <a href="mailto:shashank1220@example.com" target="_blank" rel="noreferrer">
+  <a href="mailto shashank2012pandey@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
   </a>
 </p>
@@ -102,7 +99,7 @@
 ### ⚡ Fun & Extras
 
 - 🧩 Favourite Quote: *"Talk is cheap. Show me the code."* — Linus Torvalds  
-- 🎮 Hobbies: Gaming | Prototyping small apps | Reading tech blogs | Music  
+- 🎮 Hobbies: Gaming | Prototyping small apps | Reading tech blogs | Anime
 - ☕ Fuel: JavaScript + Coffee
 
 ---
